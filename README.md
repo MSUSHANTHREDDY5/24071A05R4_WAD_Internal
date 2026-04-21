@@ -6,8 +6,15 @@ Explore the features of ES6 like arrow functions, callbacks, promises, async/awa
 
 # Output
 
+## Weather Dashboard
+
 ![Hyderabad](Image_Hyderabad_weather.png)
-
-![Mumbai](Image_Mumbai_weather.png)
-
 ![Ooty](Image_ooty_weather.png)
+
+## Async / Await Usage
+
+![Async Await](Usage_aysn()_await().png)
+
+## Weather City Input
+
+![Weather City](WeatherCity.png)
