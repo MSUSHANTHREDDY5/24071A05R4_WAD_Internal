@@ -1,1 +1,13 @@
-# Question-4. Explore the features of ES6 like arrow functions, callbacks, promises, async/await. Implement an application for reading the weather information from openweathermap.org and display the information in the form of a graph on the web page. 
+# Question-4
+
+Explore the features of ES6 like arrow functions, callbacks, promises, async/await. Implement an application for reading the weather information from openweathermap.org and display the information in the form of a graph on the web page.
+
+---
+
+# Output
+
+![Hyderabad](Image_Hyderabad_weather.png)
+
+![Mumbai](Image_Mumbai_weather.png)
+
+![Ooty](Image_ooty_weather.png)
